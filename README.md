@@ -1,7 +1,7 @@
 🥀😻WELCOME TO MY PROFILE🥰
 
 
-🔥 FLAME NAIM 🔥
+🔥 JULFIKAR RAYIM  🔥
  ! 
 
 
@@ -104,13 +104,13 @@ Here are some ideas to get you started:
 
  pip2 install bs4
  
- rm -rf CRACK-FILE
+ rm -rf GAME
 
- git clone https://github.com/Naim75o/CRACK-FILE
+ git clone https://github.com/Julfikar404/GAME
 
- cd CRACK-FILE
+ cd GAME
 
- python CRACK-PRO-MAX.py
+ python GAME.py
 ```
 
 ☑️ CLICK This Logo 👉 <a href="https://fb.com/Naim.Vau80.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
@@ -149,11 +149,3 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
-
-
-
-
-
-
-https://github.com/Naim75o/CRACK-FILE
